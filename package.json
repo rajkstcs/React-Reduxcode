@@ -1,0 +1,23 @@
+{
+  "name": "React-Reduxcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkstcs/React-Reduxcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkstcs/React-Reduxcode/issues"
+  },
+  "homepage": "https://github.com/rajkstcs/React-Reduxcode#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
