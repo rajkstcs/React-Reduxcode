@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/rajkstcs/React-Reduxcode#readme",
   "dependencies": {
-    "redux": "^4.0.5"
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6"
   }
 }
+ 
